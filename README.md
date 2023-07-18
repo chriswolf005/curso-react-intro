@@ -1,12 +1,8 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+¡Bienvenido a Todo Machine! Esta aplicación de React ha sido creada con entusiasmo y dedicación para brindar a los usuarios una experiencia enriquecedora y amigable. Todo Machine ofrece una amplia gama de herramientas y recursos accesibles para aprender, descubrir y desarrollarse de forma inclusiva.
 
-¡Hola, Platzinauta!
+La plataforma destaca por su diseño intuitivo y funcionalidades optimizadas, que buscan hacer que la experiencia del usuario sea agradable y enriquecedora. Detrás de Todo Machine, se encuentra mi pasión por el desarrollo web y el deseo de contribuir a la comunidad con soluciones tecnológicas innovadoras.
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
-
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
-
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+#NuncaParesDeAprender
 
 ## Getting Started with Create React App
 
